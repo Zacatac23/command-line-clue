@@ -6,7 +6,7 @@
 - [ ] The Innkeeper
 
 ## Weapons
-- [ ] Brass Bell
+- [x] Brass Bell
 - [ ] Steel Ruler
 - [ ] Wooden Box
 
